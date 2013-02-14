@@ -3,7 +3,7 @@ require 'bundler'
 
 Bundler.require
 
-Dir.glob('./library/*.rb') do |model|
+Dir.glob('./lib/*.rb') do |model|
   require model
 end
 
