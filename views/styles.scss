@@ -90,6 +90,11 @@ header, footer {
 
   /* Lastly, apply responsive CSS fixes as necessary */
   @media (max-width: 767px) {
+    div.kudos {
+      h1 {
+        font-size: 30px;
+      }
+    }
     #footer {
       margin-left: -20px;
       margin-right: -20px;
