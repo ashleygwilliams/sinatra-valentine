@@ -102,16 +102,16 @@ header, footer {
         font-size: 30px;
       }
     }
-    footer {
-      margin-left: -20px;
-      margin-right: -20px;
-      padding-left: 20px;
-      padding-right: 20px;
+    footer, header {
+      margin-left: -$large_space;
+      margin-right: -$large_space;
+      padding-left: $large_space;
+      padding-right: $large_space;
       font-style: bold;
     }
     div.pic {
       position: fixed;
-      bottom: 0px;
+      bottom: -$tiny_space;
       z-index: -1;
     }
   }
