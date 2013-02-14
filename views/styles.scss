@@ -32,11 +32,10 @@ div.kudos {
 footer {
   background-color: black; 
   border-top-style: dotted;
-  height: 60px;
   color: white;
   span {
     font-family: 'Ostrich Light', sans-serif;
-    font-size: 30px;
+    font-size: 150%;
     font-style: none;
     &.date {
       font-style: italic;
@@ -49,7 +48,7 @@ header {
   border-bottom: dotted white;
   h3 {
     font-family: 'Ostrich Title', sans-serif;
-    font-size: 60px;
+    font-size: 400%;
     color: $yellow;
     line-height: 1em;
   }
