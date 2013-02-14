@@ -52,6 +52,7 @@ header {
     color: $yellow;
     line-height: 1em;
   }
+  z-index: -2;
 }
 
 div.pic {
@@ -110,8 +111,6 @@ header, footer {
       font-style: bold;
     }
     div.pic {
-      position: fixed;
       bottom: -$tiny_space;
-      z-index: -1;
     }
   }
