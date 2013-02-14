@@ -103,12 +103,14 @@ header, footer {
         font-size: 30px;
       }
     }
+    footer {
+      font-family: 'Ostrich Title', sans-serif;
+    }
     footer, header {
       margin-left: -$large_space;
       margin-right: -$large_space;
       padding-left: $large_space;
       padding-right: $large_space;
-      font-style: bold;
     }
     div.pic {
       bottom: -$tiny_space;
