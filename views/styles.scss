@@ -99,7 +99,7 @@ header, footer {
     }
     header {
       h3 {
-        font-size: 20px;
+        font-size: 30px;
       }
     }
     footer {
@@ -107,6 +107,11 @@ header, footer {
       margin-right: -20px;
       padding-left: 20px;
       padding-right: 20px;
-      font-weight: 400;
+      font-style: bold;
+    }
+    div.pic {
+      position: fixed;
+      bottom: 10px;
+      z-index: -1;
     }
   }
