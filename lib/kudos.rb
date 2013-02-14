@@ -14,7 +14,6 @@ class Kudos
     "it's rumored that skill at board games is an accurate predictor of performance in bed.",
     "that pistachio-colored tabletop mixer brings all the girls to the yard.",
     "your taste in animated gifs is unrivalled.",
-    "you have the thickest nut.",
     "you skinny wonderful man.",
     "your commitment to hair care is well worth the time and effort you put into it."    
   ]
