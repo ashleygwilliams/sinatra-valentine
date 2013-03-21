@@ -56,7 +56,7 @@ header {
     position: fixed;
     top: 0;
     right: 0;
-    padding: $large_space;
+    padding: $large_space+$tiny_space;
   }
   z-index: -2;
 }
