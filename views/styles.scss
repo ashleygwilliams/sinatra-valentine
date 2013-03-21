@@ -52,6 +52,12 @@ header {
     color: $yellow;
     line-height: 1em;
   }
+  img {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: $large_space;
+  }
   z-index: -2;
 }
 
