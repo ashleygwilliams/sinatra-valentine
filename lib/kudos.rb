@@ -10,12 +10,16 @@ class Kudos
     "the ingredients you picked out for dinner last week were both delicious and inspired.",
     "the sweater you're wearing is even cooler than the one you wore yesterday.",
     "everyone is jealous of your leopard print blanket.",
-    "at least one person is thinking about having sex with you right now. probably more, though. and they're excited about it.",
-    "it's rumored that skill at board games is an accurate predictor of performance in bed.",
     "that pistachio-colored tabletop mixer brings all the girls to the yard.",
     "your taste in animated gifs is unrivalled.",
     "you skinny wonderful man.",
     "your commitment to hair care is well worth the time and effort you put into it."    
+  ]
+
+  CENSORED = [
+    "that thing you tweeted was both hilarious and intelligently critical of ignorant dumbfucks.",
+    "at least one person is thinking about having sex with you right now. probably more, though. and they're excited about it.",
+    "it's rumored that skill at board games is an accurate predictor of performance in bed."
   ]
 
   COLORS = [
